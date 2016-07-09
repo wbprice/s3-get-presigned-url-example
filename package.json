@@ -1,5 +1,5 @@
 {
-  "name": "s3-upload-troubleshoot",
+  "name": "s3-get-presigned-url-example",
   "version": "1.0.0",
   "description": "Get a presigned URL example",
   "main": "index.js",
